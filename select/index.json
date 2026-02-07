@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "にゅー！支配者のキャロル",
+  "base_artist": "藤原ハガネ",
+  "createdAt": "2026-02-07T03:43:35.593941Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "にゅー!支配者のキャロル",
+      "artist": "藤原ハガネ",
+      "has_synced": false,
+      "path": "select/pl_01_にゅー!支配者のキャロル_藤原ハガネ.txt"
+    }
+  ]
+}
